@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PriorityChip" parent="Widget.MaterialComponents.Chip.Choice">
+        <!-- фон -->
+        <item name="chipBackgroundColor">@color/black</item>
+
+        <!-- текст -->
+        <item name="android:textColor">@color/white</item>
+
+        <!-- обводка -->
+        <item name="chipStrokeColor">@color/white</item>
+        <item name="chipStrokeWidth">1dp</item>
+
+        <!-- иконка галочки -->
+        <item name="checkedIconVisible">true</item>
+    </style>
+</resources>

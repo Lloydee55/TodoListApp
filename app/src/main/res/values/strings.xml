@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="enter_note">Enter note</string>
+    <string name="empty_field">The field is empty! Fill in the input field!</string>
+    <string name="saved">Saved</string>
+    <string name="save">Save</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="not_priority">Priority is not selected</string>
+</resources>
